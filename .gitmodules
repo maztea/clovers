@@ -1,0 +1,6 @@
+[submodule "clovers.beckend"]
+	path = clovers.beckend
+	url = https://github.com/maztea/clovers.beckend.git
+[submodule "clovers.android"]
+	path = clovers.android
+	url = https://github.com/maztea/clovers.android.git
